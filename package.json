@@ -1,0 +1,23 @@
+{
+  "name": "informa-aviation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehrim498/Informa-Aviation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tehrim498/Informa-Aviation/issues"
+  },
+  "homepage": "https://github.com/tehrim498/Informa-Aviation#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.0.0"
+  }
+}
